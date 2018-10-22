@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 !pip install Pillow==4.1.1
 !pip install "fastai==0.7.0"
 !pip install torchtext==0.2.3
